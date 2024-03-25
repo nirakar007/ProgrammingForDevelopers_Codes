@@ -1,0 +1,1 @@
+a function can be evaluated by inductive proof or other  methods
